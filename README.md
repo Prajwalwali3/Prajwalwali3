@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prajwal wali
-- 👀 I’m interested in ...
+- 👀 I’m interested in ..
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Prajwalwali1234@gmail.com
